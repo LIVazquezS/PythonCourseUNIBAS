@@ -4,6 +4,6 @@ GitHub Repository for the exercises of the Python Course at Department of Chemis
 
 For any information related to this repository contact:
 
-L.I. Vazquez-Salazar
+L.I. Vazquez-Salazar MSc.
 
 email: luisitza.vazquezsalazar@unibas.ch
